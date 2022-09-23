@@ -4,7 +4,7 @@ npm install
 npm run serve
 
 npm install typescript --save-dev
-npm install i -g typescript
+npm install -g typescript
 
 npx tsc
 
