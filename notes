@@ -1,0 +1,14 @@
+
+npm i
+npm install
+npm run serve
+
+npm install typescript --save-dev
+npm install i -g typescript
+
+npx tsc
+
+
+tsc sandbox.ts sandbox.js
+tsc sandbox.ts //will simply automatically create js file
+tsc sandbox.ts -w // automatic now
