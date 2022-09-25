@@ -12,3 +12,8 @@ npx tsc
 tsc sandbox.ts sandbox.js
 tsc sandbox.ts //will simply automatically create js file
 tsc sandbox.ts -w // automatic now
+
+tsc src/sandbox.ts
+tsc --init // spawn a tsconfig.json file
+
+tsc -w // watch all
